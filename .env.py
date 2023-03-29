@@ -1,0 +1,1 @@
+DJANGO_SECRET_KEY= django-insecure-@9g9-&d9!zdo(23+8v5)as8w#mbt6-#8+#%1dtr(=_*(++++t!
