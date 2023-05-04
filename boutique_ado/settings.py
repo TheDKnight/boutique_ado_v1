@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'DJANGO_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://8000-thedknight-boutiqueadov-klr3bosbe2z.ws-eu96b.gitpod.io', 'https://ecom-edu.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['8000-thedknight-boutiqueadov-klr3bosbe2z.ws-eu96b.gitpod.io', 'ecom-edu.herokuapp.com', 'localhost']
 
 
 # Application definition
